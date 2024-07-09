@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "checked": false,
+            "item": "The Dark Knight"
+        },
+        {
+            "id": 2,
+            "checked": false,
+            "item": "Kingdom Of Heaven"
+        },
+        {
+            "id": 3,
+            "checked": false,
+            "item": "Kingsmen"
+        }
+    ]
+}
